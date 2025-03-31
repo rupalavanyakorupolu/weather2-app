@@ -25,7 +25,7 @@ html{
 body {
     background: url(https://img.freepik.com/free-vector/gorgeous-clouds-background-with-blue-sky-design_1017-25501.jpg);
     background-position: center;
-    background-size: cover;
+    background-size:  cover;
     width: 100%;
     height: 100vh;
     display: flex;
